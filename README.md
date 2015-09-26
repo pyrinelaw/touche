@@ -43,3 +43,6 @@ Tested to work on:
 * Chrome 13+
 * Safari 5.1+
 * Firefox 7+
+
+# 修正日志
+15-09/26 新版firefox触摸不兼容修正
